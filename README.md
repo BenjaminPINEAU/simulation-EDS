@@ -5,3 +5,5 @@ Etude d'équations différentielles stochasitiques (EDS), comme le processus d'O
 - l'erreur de convergence forte
 - l'erreur de convergence faible
 - la simulation numérique des EDS (schéma d’Euler-Maruyama, de Milstein)
+
+*Authors : Marechal ALoïs & Benjamin Pineau*
